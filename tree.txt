@@ -4,9 +4,12 @@
 │   └── subtest01.txt
 ├── sub02
 │   └── subtest02.txt
+├── sub03
+│   ├── subtest03.txt
+│   └── subtest032.txt
 ├── test003.txt
 ├── test01.txt
 ├── test02.txt
 └── tree.txt
 
-2 directories, 7 files
+3 directories, 9 files
