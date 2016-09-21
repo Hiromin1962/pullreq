@@ -1,0 +1,2 @@
+はじめにファイルありき
+テスト01 accept commit test.
