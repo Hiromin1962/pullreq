@@ -10,3 +10,5 @@ chown vagrant:vagrant ./tree.txt
 chown vagrant:vagrant ./sub03
 chown vagrant:vagrant ./sub03/subtest03.txt
 chown vagrant:vagrant ./sub03/subtest032.txt
+chown vagrant:vagrant ./sub04
+chown vagrant:vagrant ./sub04/subtest04.txt
