@@ -1,7 +1,5 @@
 .
 ├── changeOwners.sh
-├── sub01
-│   └── subtest01.txt
 ├── sub02
 │   └── subtest02.txt
 ├── sub03
@@ -12,4 +10,4 @@
 ├── test02.txt
 └── tree.txt
 
-3 directories, 9 files
+2 directories, 8 files
