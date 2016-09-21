@@ -4,4 +4,6 @@ chown vagrant:vagrant ./test01.txt
 chown vagrant:vagrant ./test02.txt
 chown vagrant:vagrant ./test003.txt
 chown vagrant:vagrant ./test04.txt
-chown root:root ./changeOwners.sh
+chown vagrant:vagrant ./changeOwners.sh
+chown vagrant:vagrant ./sub01
+chown vagrant:vagrant ./sub01/subtest01.txt
